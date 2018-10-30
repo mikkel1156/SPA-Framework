@@ -1,4 +1,5 @@
 <p align="center"><img alt="Logo" src="https://i.imgur.com/yX7A3xR.png"></p>
+
 # SPA-Framework
 SPAf is a simple and barebones framework for developing modular and structured Single Page Applications, from just a simple file structure, a config file and ~130 lines of native JavaScript code.
 
